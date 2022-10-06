@@ -366,12 +366,8 @@ label {
 
 html,
 body {
-  background-color: #333333;
+  background-color: #D3D3D3;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'monospace';
-}
-
-#content {
-  background-color: #333333;
 }
 
 h1 {
@@ -379,6 +375,25 @@ h1 {
   padding: 0 0 30px;
   font-size: 1.5em;
   font-weight: 900;
+}
+
+label {
+  display: block;
+}
+
+#input-email input {
+  padding: 6px 30px;
+
+}
+
+#input-age-verification input {
+  box-sizing: content-box;
+  width: auto;
+}
+
+#input-age-verification label {
+  font-size: 0.825em;
+  display: inline;
 }
 
 p {
