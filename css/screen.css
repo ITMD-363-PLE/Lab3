@@ -383,6 +383,7 @@ label {
 
 #input-email input {
   padding: 6px 50px;
+  background-color: #D3D3D3;
 }
 
 #input-age-verification {
@@ -402,6 +403,7 @@ label {
 #input-submit input {
   padding: 6px 50px;
   border-radius: .5em;
+  background-color: #D3D3D3;
 }
 
 p {
