@@ -367,9 +367,6 @@ label {
 html,
 body {
   background-color: #333333;
-  margin: 0;
-  width: 100%;
-  height: 100%;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'monospace';
 }
 
@@ -386,7 +383,7 @@ h1 {
 
 p {
   text-align: center;
-  padding: 0 0 20px;
+  padding: 0 0 1.5em;
 }
 
 @media screen and (min-width: 600px) {
