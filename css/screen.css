@@ -411,7 +411,7 @@ p {
   padding: 0 0 1.5em;
 }
 
-#content {
+form {
   background-color: rgb(116, 113, 110);
   border-radius: .7em;
   padding: 20px;
