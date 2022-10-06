@@ -372,7 +372,7 @@ body {
 
 h1 {
   text-align: center;
-  padding: 0 0 30px;
+  padding: 0 0 40px;
   font-size: 1.5em;
   font-weight: 900;
 }
@@ -382,8 +382,12 @@ label {
 }
 
 #input-email input {
-  padding: 6px 30px;
+  padding: 6px 50px;
 
+}
+
+#input-age-verification {
+  padding: 1em 0 2em;
 }
 
 #input-age-verification input {
@@ -394,6 +398,11 @@ label {
 #input-age-verification label {
   font-size: 0.825em;
   display: inline;
+}
+
+#input-submit input {
+  padding: 6px 50px;
+  border-radius: .5em;
 }
 
 p {
