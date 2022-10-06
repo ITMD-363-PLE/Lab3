@@ -378,12 +378,11 @@ h1 {
 }
 
 label {
-  display: block;
+  font-weight: 300;
 }
 
 #input-email input {
   padding: 6px 50px;
-
 }
 
 #input-age-verification {
@@ -408,6 +407,12 @@ label {
 p {
   text-align: center;
   padding: 0 0 1.5em;
+}
+
+#content {
+  background-color: rgb(116, 113, 110);
+  border-radius: .7em;
+  padding: 20px;
 }
 
 @media screen and (min-width: 600px) {
