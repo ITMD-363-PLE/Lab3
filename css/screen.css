@@ -376,7 +376,6 @@ body {
 #content {
   background-color: #333333;
   margin: auto;
-  width: 25%;
   padding: 40px;
   min-width: 500px;
 }
@@ -406,7 +405,7 @@ p {
 
   form {
     float: left;
-    width: 80%;
+    width: 40%;
   }
 }
 
