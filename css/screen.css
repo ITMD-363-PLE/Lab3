@@ -367,6 +367,7 @@ label {
 html,
 body {
   background-color: #333333;
+  margin: 0;
   width: 100%;
   height: 100%;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'monospace';
@@ -405,7 +406,7 @@ p {
 
   form {
     float: left;
-    width: 50%;
+    width: 80%;
   }
 }
 
